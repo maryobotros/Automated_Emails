@@ -1,7 +1,6 @@
 ﻿Library Name (Active),Title,Barcode,Loan Date,Due Date,Last Name,User Primary Identifier,First Name,Days Overdue,Preferred Email,Process Status
 Mary Norton Clapp Library,Anker USB-C Charger (20W),35043012900956,2024-02-10,2024-02-17,Cheatham,jcheatham,John,83,jcheatham@oxy.edu,NORMAL
 Mary Norton Clapp Library,Anker USB-C Charger (20W),35043012900980,2024-02-21,2024-02-28,Sloat,sloat,Cate,72,sloat@oxy.edu,NORMAL
-Mary Norton Clapp Library,Anker USB-C Charger (20W),35043012900998,2024-03-08,2024-05-03,Wang,iwang2,Isabelle,7,iwang2@oxy.edu,RENEW
 Mary Norton Clapp Library,Anker USB-C Charger (20W),35043012901335,2024-05-01,2024-05-08,Valentine,evalentine,Eleanor,2,evalentine@oxy.edu,NORMAL
 Mary Norton Clapp Library,Anker USB-C Charger (20W),35043012901392,2024-03-18,2024-03-25,Spletzer,spletzer,Sarah,46,spletzer@oxy.edu,NORMAL
 Mary Norton Clapp Library,Anker USB-C Charger (30W),35043012901004,2024-04-29,2024-05-06,Nugent,cnugent,Caroline,4,cnugent@oxy.edu,NORMAL
@@ -34,7 +33,6 @@ Mary Norton Clapp Library,Apple iPad (BIO),35043012897582,2024-01-25,2024-05-09,
 Mary Norton Clapp Library,Audio-Technica Pro 70 Microphone,35043012776760,2022-04-19,2023-12-10,Chiriboga,achiriboga,Alexander,152,achiriboga@oxy.edu,RENEW
 Mary Norton Clapp Library,Behringer Portable Wireless PA System,35043012914148,2023-11-30,2023-12-07,Yeshak,yeshak,Kalkidane,155,yeshak@oxy.edu,RECALL
 Mary Norton Clapp Library,Behringer Sound System,35043012505888,2021-10-01,2022-10-23,Veirano,veirano,Joao,565,veirano@oxy.edu,RENEW
-Mary Norton Clapp Library,Behringer Sound System,35043012734918,2023-10-05,2024-04-21,Patrocinio,ypatrocinio,Yareimy,19,ypatrocinio@oxy.edu,RENEW
 Mary Norton Clapp Library,Canon T3i Camera Kit,35043012797642,2024-03-29,2024-04-16,Eichenmuller,meichenmulle,Max,24,meichenmulle@oxy.edu,RENEW
 Mary Norton Clapp Library,Canon T6 Camera Kit,35043012914015,2023-11-17,2024-03-07,Ramirez,iramirez2,Isaac,64,iramirez2@oxy.edu,RENEW
 Mary Norton Clapp Library,Canon Vixia HF R500 Camcorder,35043012797436,2022-01-27,2022-02-03,McCoy,vmccoy,John,827,vmccoy@oxy.edu,NORMAL
